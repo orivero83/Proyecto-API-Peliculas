@@ -1,2 +1,2 @@
-# Proyecto-API-Peliculas
- Practica de API con info de peliculas
+# curso-api-rest-javascript-practico
+Curso Práctico de Consumo de API REST con JavaScript
